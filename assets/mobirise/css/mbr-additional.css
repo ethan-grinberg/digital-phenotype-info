@@ -834,6 +834,10 @@ a {
 .cid-svVX74wfQ0 .link-wrap {
   color: #555555;
 }
+.cid-svVX74wfQ0 .mbr-text,
+.cid-svVX74wfQ0 .mbr-section-btn {
+  color: #232323;
+}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -2575,7 +2579,7 @@ a {
   }
 }
 .cid-sw0A2P9DCN {
-  padding-top: 6rem;
+  padding-top: 7rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
